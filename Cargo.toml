@@ -1,0 +1,11 @@
+[package]
+name = "ternary-replay"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Deterministic replay of agent experiments from seeds"
+repository = "https://github.com/SuperInstance/ternary-replay"
+keywords = ["ternary", "replay", "deterministic", "agent", "experiment"]
+categories = ["algorithms", "simulation"]
+
+[dependencies]
